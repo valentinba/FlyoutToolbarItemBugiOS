@@ -1,8 +1,8 @@
 ﻿namespace FlyoutToolbarItemBugiOS
 {
-    public partial class RootPage : FlyoutPage
+    public partial class TopPage : FlyoutPage
     {
-        public RootPage()
+        public TopPage()
         {
             InitializeComponent();
         }
